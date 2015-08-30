@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sonya\'s cat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_image_picker">ImagePicker</string>
+    <string name="mainHeader">Choose your destiny</string>
+    <string name="firstEdittextHint">Enter something funny here</string>
+    <string name="secondEdittextHint">and here too!</string>
+    <string name="nameOfStoredImageFile">temp_image</string>
+    <string name="buttonText">Make it</string>
+</resources>

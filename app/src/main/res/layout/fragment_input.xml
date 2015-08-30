@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.example.alexiv.sonyascat.InputFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/editTextUp"
+        android:layout_gravity="center|top"
+        android:hint="@string/firstEdittextHint"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/editTextUp"
+        android:id="@+id/editTextDown"
+        android:layout_gravity="center|top"
+        android:hint="@string/secondEdittextHint"/>
+
+    <Button
+        android:id="@+id/myButton"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_centerInParent="true"
+        android:textColor="#000000"
+        android:text="@string/buttonText"
+        android:layout_below="@id/editTextDown"/>
+</RelativeLayout>
+</FrameLayout>
