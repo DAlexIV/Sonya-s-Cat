@@ -1,2 +1,2 @@
 # Sonya-s-Cat
-![](http://alexivme.appspot.com/images/screenshot1.png)
+<img src="http://alexivme.appspot.com/images/sonya.png"  width="480">
